@@ -35,30 +35,30 @@
 			</div>
 		</nav>
 	</div>
-	<div class="container-fluid px-4">
-		<div class="row py-3">
-			<div class="card col-md-3">
+	<div class="container-fluid px-4 py-4">
+		<div class="card-deck">
+			<div class="card">
 				<h5 class="card-header">Riker</h5>
 				<div class="card-body">
-					<p class="card-text">Sensors indicate human life forms 30 meters below the planet's surface. Stellar flares are increasing in magnitude and frequency. Set course for Rhomboid Dronegar 006, warp seven.</p>
+					<p class="card-text">The game's not big enough unless it scares you a little. Maybe we better talk out here; the observation lounge has turned into a swamp. Your shields were failing, sir. and attack the Romulans.</p>
 				</div>
 			</div>
-			<div class="card col-md-3">
-				<h5 class="card-header">Featured</h5>
+			<div class="card border-primary">
+				<h5 class="card-header">Ipsum</h5>
 				<div class="card-body">
-					<p class="card-text">Shields up. I recommend we transfer power to phasers and arm the photon torpedoes. Something strange on the detector circuit. The weapons must have disrupted our communicators.</p>
+					<p class="card-text">We finished our first sensor sweep of the neutral zone. Your shields were failing, sir. Damage report! Besides, you look good in a dress. My oath is between Captain Kargan and myself. </p>
 				</div>
 			</div>
-			<div class="card col-md-3">
-				<h5 class="card-header">Featured</h5>
+			<div class="card border-danger">
+				<h5 class="card-header">===</h5>
 				<div class="card-body">
-					<p class="card-text">I have reset the sensors to scan for frequencies outside the usual range. By emitting harmonic vibrations to shatter the lattices. We will monitor and adjust the frequency of the resonators.</p>
+					<p class="card-text">Some days you get the bear, and some days the bear gets you. Maybe if we felt any human loss as keenly as we feel one of those close to us, human history would be far less bloody.</p>
 				</div>
 			</div>
-			<div class="card col-md-3">
-				<h5 class="card-header">Featured</h5>
+			<div class="card border-warning">
+				<h5 class="card-header">&#x2764;</h5>
 				<div class="card-body">
-					<p class="card-text">These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no one has gone before.</p>
+					<p class="card-text">Now we know what they mean by 'advanced' tactical training. I'll be sure to note that in my log. I'd like to think that I haven't changed those things, sir. Travel time to the nearest starbase?</p>
 				</div>
 			</div>
 		</div>
@@ -66,13 +66,13 @@
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-md-4">
-				<p>Sensors indicate human life forms 30 meters below the planet's surface. Stellar flares are increasing in magnitude and frequency. Set course for Rhomboid Dronegar 006, warp seven. There's no evidence of an advanced communication network. Total guidance system failure, with less than 24 hours' reserve power. Shield effectiveness has been reduced 12 percent. We have covered the area in a spherical pattern which a ship without warp drive could cross in the given time. Resistance is futile.</p>
+				<p>I am your worst nightmare! Talk about going nowhere fast. Not if I weaken first. Yes, absolutely, I do indeed concur, wholeheartedly! I'm afraid I still don't understand, sir. Some days you get the bear, and some days the bear gets you. I suggest you drop it, Mr. Data. Well, that's certainly good to know. Earl Grey tea, watercress sandwiches... and Bularian canapés? Are you up for promotion? Smooth as an android's bottom, eh, Data?</p>
 			</div>
 			<div class="col-md-4">
-				<p>It indicates a synchronic distortion in the areas emanating triolic waves. The cerebellum, the cerebral cortex, the brain stem,  the entire nervous system has been depleted of electrochemical energy. Any device like that would produce high levels of triolic waves. These walls have undergone some kind of selective molecular polarization. I haven't determined if our phaser energy can generate a stable field. We could alter the photons with phase discriminators.</p>
+				<p>Why don't we just give everybody a promotion and call it a night - 'Commander'? Fate protects fools, little children and ships named Enterprise. The Enterprise computer system is controlled by three primary main processor cores, cross-linked with a redundant melacortz ramistat, fourteen kiloquad interface modules. Talk about going nowhere fast. We could cause a diplomatic crisis. Take the ship into the Neutral Zone</p>
 			</div>
 			<div class="col-md-4">
-				<p>Unidentified vessel travelling at sub warp speed, bearing 235.7. Fluctuations in energy readings from it, Captain. All transporters off. A strange set-up, but I'd say the graviton generator is depolarized. The dark colourings of the scrapes are the leavings of natural rubber, a type of non-conductive sole used by researchers experimenting with electricity. The molecules must have been partly de-phased by the anyon beam.</p>
+				<p>Mr. Crusher, ready a collision course with the Borg ship. and attack the Romulans. Travel time to the nearest starbase? Yesterday I did not know how to eat gagh. Fear is the true enemy, the only enemy. I guess it's better to be lucky than good. Ensign Babyface! Shields up! Rrrrred alert! Our neural pathways have become accustomed to your sensory input patterns. I suggest you drop it, Mr. Data. I can't. As much as I care about you, my first duty is to the ship.</p>
 			</div>
 		</div>
 	</div>
